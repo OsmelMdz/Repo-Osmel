@@ -1,9 +1,18 @@
 .titulo{
-    color: antiquewhite;
+    color: rgb(244, 206, 157);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .parrafo{
     font-family: 'Times New Roman', Times, serif;
-    background-color: brown;
-    color: antiquewhite;
+    background-color: rgb(75, 4, 4);
+    color: rgb(93, 92, 92);
+}
+ol{
+    color: rgb(237, 237, 237);
+    position: relative;
+    width: min-content;
+    height: max-content;
+}
+.lista{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
